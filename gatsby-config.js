@@ -28,7 +28,7 @@ module.exports = {
         name: `Portfolio - Habib.`,
         short_name: `Portfolio`,
         description: `It's okay if you forget me`,
-        start_url: `/`,
+        start_url: `https://by-sadboy.co`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
