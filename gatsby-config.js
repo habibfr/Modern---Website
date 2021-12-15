@@ -11,6 +11,7 @@ module.exports = {
     siteTitleAlt: `Portfolio - Habib.`,
     siteHeadline: `Portfolio - Habib.`,
     siteDescription: `It's okay if you forget me`,
+    siteUrl: `https://by-sadboy.co`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
