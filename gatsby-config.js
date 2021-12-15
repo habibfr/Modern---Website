@@ -10,7 +10,6 @@ module.exports = {
     siteTitle: `Portfolio`,
     siteTitleAlt: `Portfolio - Habib.`,
     siteHeadline: `Portfolio - Habib.`,
-    siteUrl: `https://cara.lekoarts.de`,
     siteDescription: `It's okay if you forget me`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
