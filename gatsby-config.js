@@ -27,7 +27,7 @@ module.exports = {
       options: {
         name: `Portfolio - Habib.`,
         short_name: `Portfolio`,
-        description: ``,
+        description: `It's okay if you forget me`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
