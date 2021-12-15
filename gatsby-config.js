@@ -14,7 +14,7 @@ module.exports = {
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de and Reedit By ME`,
+    author: `@lekoarts_de`,
   },
   plugins: [
     {
