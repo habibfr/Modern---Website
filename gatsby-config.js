@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `Portfolio - Habib.`,
     siteHeadline: `Portfolio - Habib.`,
     siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `It's okay if you forget me`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
@@ -27,7 +27,7 @@ module.exports = {
       options: {
         name: `Portfolio - Habib.`,
         short_name: `Portfolio`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: ``,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
